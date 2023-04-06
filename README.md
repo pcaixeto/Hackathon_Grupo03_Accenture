@@ -11,7 +11,7 @@ To get started, you will need to have a video to simulate a stream source. You w
 * Access the platform <https://aivqa.liquidstudiobr.com/> with your username and password, and create a new analysis using the video previously uploaded.
 * Via terminal, run the Detection Factory component using the commands `docker ps` to list all running components, followed by `docker exec -it <CONTAINER_ID> bash` and `python3 -um yolov5`.
 * Run the Event Factory component using the commands `docker exec -it <CONTAINER_ID> bash` and `python3 -um roi`.
-* For more information, please access the documentation at: <https://github.com/pcaixeto/Hackathon_Grupo03_Accenture/Documuntacao_AIV_e_Mackenzie_-_v28.03.2_1.pdf>
+* For more information, please access the documentation at: <https://github.com/pcaixeto/Hackathon_Grupo03_Accenture/blob/main/Documuntacao_AIV_e_Mackenzie_-_v28.03.2_1.pdf>
 
 2.	Software dependencies
 * VSCode
@@ -19,7 +19,7 @@ To get started, you will need to have a video to simulate a stream source. You w
 Install VSCode from the official website: <https://code.visualstudio.com/download>
 
 3.	Latest releases
-* The latest release of the code can be found on the GitHub repository: <https://github.com/pcaixeto/Hackathon_Grupo03_Accenture/blob/main/Documuntacao_AIV_e_Mackenzie_-_v28.03.2_1.pdf>
+* The latest release of the code can be found on the GitHub repository: <https://github.com/pcaixeto/Hackathon_Grupo03_Accenture>
 
 # Contribute
 If you would like to contribute to the project, you can do so by submitting pull requests on the GitHub repository. Contributions can include bug fixes, new features, and improvements to the codebase.
