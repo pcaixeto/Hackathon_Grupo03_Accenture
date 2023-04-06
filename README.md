@@ -19,7 +19,7 @@ To get started, you will need to have a video to simulate a stream source. You w
 Install VSCode from the official website: <https://code.visualstudio.com/download>
 
 3.	Latest releases
-* The latest release of the code can be found on the GitHub repository: <https://github.com/pcaixeto/Hackathon_Grupo03_Accenture>
+* The latest release of the code can be found on the GitHub repository: <https://github.com/pcaixeto/Hackathon_Grupo03_Accenture/blob/main/Documuntacao_AIV_e_Mackenzie_-_v28.03.2_1.pdf>
 
 # Contribute
 If you would like to contribute to the project, you can do so by submitting pull requests on the GitHub repository. Contributions can include bug fixes, new features, and improvements to the codebase.
