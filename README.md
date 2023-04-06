@@ -25,9 +25,9 @@ Install VSCode from the official website: <https://code.visualstudio.com/downloa
 If you would like to contribute to the project, you can do so by submitting pull requests on the GitHub repository. Contributions can include bug fixes, new features, and improvements to the codebase.
 
 # Code designed by:
-- Gabriel - 
-- Pedro - 
-- [Silvania Goularte Correia - 1º sem | ADS](https://github.com/silvaniacorreia)
+- [Gabriel Woo Hyun Kim 7º semestre CC](https://github.com/GabrielKim90)
+- [Pedro Machado Gomes Caixeta - 4º semestre CC](https://github.com/pcaixeto)
+- [Silvania Goularte Correia - 1º sem ADS](https://github.com/silvaniacorreia)
 
 # Acknowledgements
 
